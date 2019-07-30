@@ -1,0 +1,18 @@
+{
+	"main": "dist/index.js",
+	"license": "MIT",
+	"devDependencies": {
+		"@types/react": "^16.8"
+	},
+	"peerDependencies": {
+		"framer": "^1.0",
+		"react": "^16.8"
+	},
+	"framer": {
+		"id": "de3baf67-d3a0-44d8-bf23-3e18204d750f"
+	},
+	"author": "Addison Schultz",
+	"dependencies": {
+		"react-flip-page": "^1.5.7"
+	}
+}
