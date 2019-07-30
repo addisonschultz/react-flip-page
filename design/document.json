@@ -48,6 +48,7 @@
               "showHint" : false,
               "showSwipeHint" : false,
               "showTouchHint" : false,
+              "startAt" : 0,
               "treshold" : 10,
               "uncutPages" : false
             },
@@ -451,6 +452,410 @@
         "top" : 0,
         "visible" : true,
         "width" : 375,
+        "widthType" : 0
+      },
+      {
+        "__class" : "FrameNode",
+        "aspectRatio" : null,
+        "blendingEnabled" : 0,
+        "blendingMode" : "normal",
+        "bottom" : null,
+        "centerAnchorX" : 0,
+        "centerAnchorY" : 0,
+        "children" : [
+          {
+            "__class" : "SVGNode",
+            "aspectRatio" : 1,
+            "blendingEnabled" : 0,
+            "blendingMode" : "normal",
+            "bottom" : null,
+            "centerAnchorX" : 0.5,
+            "centerAnchorY" : 0.5,
+            "children" : [
+
+            ],
+            "colorable" : false,
+            "constraintsLocked" : false,
+            "exportOptions" : [
+
+            ],
+            "fillImage" : null,
+            "fillImagePixelHeight" : null,
+            "fillImagePixelWidth" : null,
+            "fillImageResize" : "fill",
+            "fillType" : "color",
+            "height" : 30,
+            "heightType" : 0,
+            "id" : "rlEBG3n8q",
+            "intrinsicHeight" : 512,
+            "intrinsicWidth" : 512,
+            "left" : null,
+            "locked" : false,
+            "name" : null,
+            "opacity" : 1,
+            "originalFilename" : "icon.svg",
+            "originalid" : null,
+            "parentid" : "oy8RgqH3P",
+            "right" : null,
+            "rotation" : 0,
+            "svg" : "<?xml version=\"1.0\"?><svg xmlns=\"http:\/\/www.w3.org\/2000\/svg\" xmlns:xlink=\"http:\/\/www.w3.org\/1999\/xlink\" width=\"512\" height=\"512\"><defs><path id=\"a\" d=\"M64 64h202v384H64z\"><\/path><path id=\"b\" d=\"M379 64h69v384h-69z\"><\/path><path id=\"c\" d=\"M256 64L389.032 0v512L256 448z\"><\/path><\/defs><g fill=\"none\" fill-rule=\"evenodd\"><use fill=\"#8ECDF6\" xlink:href=\"#a\"><\/use><path stroke=\"#2980B9\" stroke-width=\"10\" d=\"M69 69h192v374H69z\"><\/path><use fill=\"#5DA9DB\" xlink:href=\"#b\"><\/use><path stroke=\"#2980B9\" stroke-width=\"10\" d=\"M384 69h59v374h-59z\"><\/path><use fill=\"#7AB5DC\" xlink:href=\"#c\"><\/use><path stroke=\"#2980B9\" stroke-width=\"10\" d=\"M261 67.143L384.032 7.954v496.092L261 444.856V67.144z\"><\/path><\/g><\/svg>",
+            "top" : null,
+            "visible" : true,
+            "width" : 30,
+            "widthType" : 0
+          }
+        ],
+        "clip" : true,
+        "codeOverrideEnabled" : false,
+        "constraintsLocked" : false,
+        "deviceType" : "framer\/FramerStoreIcon",
+        "exportOptions" : [
+          {
+            "__class" : "ExportOptions",
+            "enabled" : true,
+            "nameExtension" : "@4x",
+            "nameExtensionMode" : "Suffix",
+            "scale" : 4,
+            "type" : "png"
+          }
+        ],
+        "fillColor" : "rgba(255,255,255,1)",
+        "fillEnabled" : true,
+        "fillImage" : null,
+        "fillImagePixelHeight" : null,
+        "fillImagePixelWidth" : null,
+        "fillImageResize" : "fill",
+        "fillType" : "color",
+        "guidesX" : [
+
+        ],
+        "guidesY" : [
+
+        ],
+        "height" : 50,
+        "heightType" : 0,
+        "id" : "oy8RgqH3P",
+        "intrinsicHeight" : null,
+        "intrinsicWidth" : null,
+        "isExternalMaster" : null,
+        "isMaster" : false,
+        "isTarget" : false,
+        "left" : 1424,
+        "locked" : false,
+        "name" : null,
+        "navigationTarget" : null,
+        "navigationTransition" : "push",
+        "navigationTransitionBackdropColor" : "rgba(4,4,15,.4)",
+        "navigationTransitionDirection" : "left",
+        "opacity" : 1,
+        "originalid" : null,
+        "parentid" : "mHXOefa5V",
+        "previewSettings" : null,
+        "radius" : 0,
+        "radiusBottomLeft" : 0,
+        "radiusBottomRight" : 0,
+        "radiusIsRelative" : false,
+        "radiusPerCorner" : false,
+        "radiusTopLeft" : 0,
+        "radiusTopRight" : 0,
+        "replicaInfo" : null,
+        "right" : null,
+        "rotation" : 0,
+        "top" : 0,
+        "visible" : true,
+        "width" : 50,
+        "widthType" : 0
+      },
+      {
+        "__class" : "FrameNode",
+        "aspectRatio" : null,
+        "blendingEnabled" : 0,
+        "blendingMode" : "normal",
+        "bottom" : null,
+        "centerAnchorX" : 0,
+        "centerAnchorY" : 0,
+        "children" : [
+          {
+            "__class" : "TextNode",
+            "autoSize" : true,
+            "bottom" : 157,
+            "centerAnchorX" : 0.49937500000000001,
+            "centerAnchorY" : 0.55083333333333329,
+            "codeOverrideEnabled" : false,
+            "constraintsLocked" : false,
+            "exportOptions" : [
+
+            ],
+            "height" : 225,
+            "heightType" : 0,
+            "id" : "WHsqr6fRW",
+            "isTarget" : false,
+            "left" : null,
+            "locked" : false,
+            "name" : null,
+            "opacity" : 1,
+            "originalid" : null,
+            "parentid" : "D10_PU4nW",
+            "right" : null,
+            "rotation" : 0,
+            "styledText" : {
+              "__class" : "StyledTextDraft",
+              "blocks" : [
+                {
+                  "data" : {
+                    "emptyStyle" : [
+                      "FONT:__SF-UI-Text-Regular__",
+                      "COLOR:rgb(0, 0, 0)",
+                      "LETTERSPACING:0",
+                      "LINEHEIGHT:1.2",
+                      "SIZE:188"
+                    ]
+                  },
+                  "depth" : 0,
+                  "entityRanges" : [
+
+                  ],
+                  "inlineStyleRanges" : [
+                    {
+                      "length" : 1,
+                      "offset" : 0,
+                      "style" : "FONT:__SF-UI-Text-Regular__"
+                    },
+                    {
+                      "length" : 1,
+                      "offset" : 0,
+                      "style" : "COLOR:rgb(0, 0, 0)"
+                    },
+                    {
+                      "length" : 1,
+                      "offset" : 0,
+                      "style" : "LETTERSPACING:0"
+                    },
+                    {
+                      "length" : 1,
+                      "offset" : 0,
+                      "style" : "LINEHEIGHT:1.2"
+                    },
+                    {
+                      "length" : 1,
+                      "offset" : 0,
+                      "style" : "SIZE:188"
+                    }
+                  ],
+                  "key" : "j8gu",
+                  "text" : "📔",
+                  "type" : "unstyled"
+                }
+              ],
+              "cached" : {
+                "html" : "<div data-offset-key=\"j8gu-0-0\" class=\"public-DraftStyleDefault-block public-DraftStyleDefault-ltr\"><span data-offset-key=\"j8gu-0-0\" style=\"tab-size:4;font-family:&quot;.SFNSText&quot;, &quot;SFProText-Regular&quot;, &quot;SFUIText-Regular&quot;, &quot;.SFUIText&quot;, sans-serif;-webkit-text-fill-color:rgb(0, 0, 0);font-size:188px;letter-spacing:0px;line-height:1.2\"><span data-text=\"true\">📔<\/span><\/span><\/div>",
+                "os" : "10_14",
+                "size" : {
+                  "height" : 225,
+                  "width" : 189
+                },
+                "width" : 0
+              },
+              "entityMap" : {
+
+              }
+            },
+            "top" : null,
+            "visible" : true,
+            "width" : 189,
+            "widthType" : 0,
+            "x" : 466,
+            "y" : 369
+          },
+          {
+            "__class" : "TextNode",
+            "autoSize" : true,
+            "bottom" : null,
+            "centerAnchorX" : 0.5,
+            "centerAnchorY" : 0.17499999999999999,
+            "codeOverrideEnabled" : false,
+            "constraintsLocked" : false,
+            "exportOptions" : [
+
+            ],
+            "height" : 36,
+            "heightType" : 0,
+            "id" : "WQF2gB1mV",
+            "isTarget" : false,
+            "left" : null,
+            "locked" : false,
+            "name" : null,
+            "opacity" : 1,
+            "originalid" : null,
+            "parentid" : "D10_PU4nW",
+            "right" : null,
+            "rotation" : 0,
+            "styledText" : {
+              "__class" : "StyledTextDraft",
+              "blocks" : [
+                {
+                  "data" : {
+                    "emptyStyle" : [
+                      "COLOR:rgb(0, 0, 0)",
+                      "LETTERSPACING:0",
+                      "LINEHEIGHT:1.2",
+                      "SIZE:30",
+                      "FONT:__SF-UI-Text-Italic__"
+                    ]
+                  },
+                  "depth" : 0,
+                  "entityRanges" : [
+
+                  ],
+                  "inlineStyleRanges" : [
+                    {
+                      "length" : 46,
+                      "offset" : 0,
+                      "style" : "COLOR:rgb(0, 0, 0)"
+                    },
+                    {
+                      "length" : 46,
+                      "offset" : 0,
+                      "style" : "LETTERSPACING:0"
+                    },
+                    {
+                      "length" : 46,
+                      "offset" : 0,
+                      "style" : "LINEHEIGHT:1.2"
+                    },
+                    {
+                      "length" : 46,
+                      "offset" : 0,
+                      "style" : "SIZE:30"
+                    },
+                    {
+                      "length" : 46,
+                      "offset" : 0,
+                      "style" : "FONT:__SF-UI-Text-Italic__"
+                    }
+                  ],
+                  "key" : "am58p",
+                  "text" : "“Book transitions as easy as flipping a page!\"",
+                  "type" : "unstyled"
+                }
+              ],
+              "cached" : {
+                "html" : "<div data-offset-key=\"am58p-0-0\" class=\"public-DraftStyleDefault-block public-DraftStyleDefault-ltr\"><span data-offset-key=\"am58p-0-0\" style=\"tab-size:4;font-family:&quot;.SFNSText-Italic&quot;, &quot;&quot;, &quot;SFProText-Italic&quot;, &quot;SFUIText-Italic&quot;, &quot;.SFUIText-Italic&quot;, sans-serif;-webkit-text-fill-color:rgb(0, 0, 0);font-size:30px;letter-spacing:0px;line-height:1.2\"><span data-text=\"true\">“Book transitions as easy as flipping a page!\"<\/span><\/span><\/div>",
+                "os" : "10_14",
+                "size" : {
+                  "height" : 36,
+                  "width" : 639
+                },
+                "width" : 0
+              },
+              "entityMap" : {
+
+              }
+            },
+            "top" : 87,
+            "visible" : true,
+            "width" : 639,
+            "widthType" : 0,
+            "x" : 100,
+            "y" : 113
+          }
+        ],
+        "clip" : true,
+        "codeOverrideEnabled" : false,
+        "constraintsLocked" : false,
+        "deviceType" : "framer\/FramerStoreArtwork",
+        "exportOptions" : [
+          {
+            "__class" : "ExportOptions",
+            "enabled" : true,
+            "nameExtension" : "",
+            "nameExtensionMode" : "Suffix",
+            "scale" : 1,
+            "type" : "png"
+          }
+        ],
+        "fillColor" : "rgba(255,255,255,1)",
+        "fillEnabled" : true,
+        "fillImage" : null,
+        "fillImagePixelHeight" : null,
+        "fillImagePixelWidth" : null,
+        "fillImageResize" : "fill",
+        "fillLinearGradient" : {
+          "__class" : "LinearGradient",
+          "alpha" : 1,
+          "angle" : 180,
+          "stops" : [
+            {
+              "__class" : "GradientColorStop",
+              "position" : 0,
+              "value" : "rgb(255, 255, 255)"
+            },
+            {
+              "__class" : "GradientColorStop",
+              "position" : 1,
+              "value" : "hsl(43, 100%, 93%)"
+            }
+          ]
+        },
+        "fillRadialGradient" : {
+          "__class" : "RadialGradient",
+          "alpha" : 1,
+          "centerAnchorX" : 0.5,
+          "centerAnchorY" : 0.5,
+          "heightFactor" : 0.5,
+          "stops" : [
+            {
+              "__class" : "GradientColorStop",
+              "position" : 0,
+              "value" : "rgb(255, 255, 255)"
+            },
+            {
+              "__class" : "GradientColorStop",
+              "position" : 1,
+              "value" : "hsl(43, 100%, 93%)"
+            }
+          ],
+          "widthFactor" : 0.5
+        },
+        "fillType" : "radial-gradient",
+        "guidesX" : [
+
+        ],
+        "guidesY" : [
+
+        ],
+        "height" : 600,
+        "heightType" : 0,
+        "id" : "D10_PU4nW",
+        "intrinsicHeight" : null,
+        "intrinsicWidth" : null,
+        "isExternalMaster" : null,
+        "isMaster" : false,
+        "isTarget" : false,
+        "left" : 1574,
+        "locked" : false,
+        "name" : null,
+        "navigationTarget" : null,
+        "navigationTransition" : "push",
+        "navigationTransitionBackdropColor" : "rgba(4,4,15,.4)",
+        "navigationTransitionDirection" : "left",
+        "opacity" : 1,
+        "originalid" : null,
+        "parentid" : "mHXOefa5V",
+        "previewSettings" : null,
+        "radius" : 0,
+        "radiusBottomLeft" : 0,
+        "radiusBottomRight" : 0,
+        "radiusIsRelative" : false,
+        "radiusPerCorner" : false,
+        "radiusTopLeft" : 0,
+        "radiusTopRight" : 0,
+        "replicaInfo" : null,
+        "right" : null,
+        "rotation" : 0,
+        "top" : 0,
+        "visible" : true,
+        "width" : 800,
         "widthType" : 0
       }
     ],

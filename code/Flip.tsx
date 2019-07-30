@@ -19,6 +19,8 @@ type Props = {
   showTouchHint: boolean;
   flipOnTouch: boolean;
   onPageChange: () => void;
+  onStartSwiping: () => void;
+  onStopSwiping: () => void;
   loopForever: boolean;
   disableSwipe: boolean;
   responsive: boolean;
@@ -43,6 +45,8 @@ export function Flip(props: Props) {
       showTouchHint={props.showTouchHint}
       flipOnTouch={props.flipOnTouch}
       onPageChange={props.onPageChange}
+      onStartSwiping={props.onStartSwiping}
+      onStopSwiping={props.onStopSwiping}
       loopForever={props.loopForever}
       disableSwipe={props.disableSwipe}
       responsive={props.responsive}

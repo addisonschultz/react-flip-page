@@ -9,10 +9,13 @@
 		"react": "^16.8"
 	},
 	"framer": {
-		"id": "de3baf67-d3a0-44d8-bf23-3e18204d750f"
+		"id": "de3baf67-d3a0-44d8-bf23-3e18204d750f",
+		"displayName": "Flip Page"
 	},
 	"author": "Addison Schultz",
 	"dependencies": {
 		"react-flip-page": "^1.5.7"
-	}
+	},
+	"name": "@framer/addison.flip-page",
+	"version": "1.0.0"
 }
