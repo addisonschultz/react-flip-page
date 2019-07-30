@@ -23,6 +23,7 @@
             "clip" : true,
             "codeComponentIdentifier" : ".\/Flip.tsx_Flip",
             "codeComponentProps" : {
+              "animationDuration" : 200,
               "children" : [
                 {
                   "enabled" : true,
@@ -34,7 +35,21 @@
                   "type" : "componentinstance",
                   "value" : "lTYM0rmSg"
                 }
-              ]
+              ],
+              "disableSwipe" : false,
+              "flipOnTouch" : false,
+              "loopForever" : true,
+              "maxAngle" : 45,
+              "maxOpacity" : 0.40000000000000002,
+              "orientation" : "horizontal",
+              "pageBackground" : "#fff",
+              "perspective" : 130,
+              "responsive" : false,
+              "showHint" : false,
+              "showSwipeHint" : false,
+              "showTouchHint" : false,
+              "treshold" : 10,
+              "uncutPages" : false
             },
             "codeOverrideEnabled" : false,
             "constraintsLocked" : false,
@@ -51,9 +66,9 @@
             "fillType" : "color",
             "height" : 812,
             "heightType" : 0,
-            "id" : "KkQpi7_an",
-            "intrinsicHeight" : null,
-            "intrinsicWidth" : null,
+            "id" : "UiAwTnOUv",
+            "intrinsicHeight" : 812,
+            "intrinsicWidth" : 375,
             "left" : 0,
             "locked" : false,
             "name" : null,
